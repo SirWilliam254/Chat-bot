@@ -1,1 +1,7 @@
-
+{
+"intents": [
+  {
+    "tag": "greetings",
+  }
+]
+}
