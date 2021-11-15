@@ -8,6 +8,15 @@
     "responses": [
     "Hello There", "Hi, how can i be of assistance to you", "Hello to you too", "Hello, how are this fine moment"
     ]
+  },
+  {
+    "tag": "goodbye",
+    "patterns": [
+    "Bye", "See You", "See ya", "Goodbye", "later"
+    ],
+    "responses": [
+      "See you later", "Bye!", "Have a nice time", "See you soon"
+      ]
   }
 ]
 }
