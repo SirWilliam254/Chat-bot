@@ -4,6 +4,9 @@
     "tag": "greetings",
     "patterns": [
     "Hi", "Hey", "How are you", "Hello", "How do you do", "whats up"
+    ],
+    "responses": [
+    "Hello There", "Hi, how can i be of assistance to you", "Hello to you too", "Hello, how are this fine moment"
     ]
   }
 ]
